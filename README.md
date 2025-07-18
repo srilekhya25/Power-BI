@@ -46,4 +46,4 @@ Walkthrough of Key Visuals
 ✅ Reduced manual data interpretation and boosted stakeholder confidence in strategic reporting.
 
 Dashboard preview link: 
- ![Image Alt]()
+ ![Image Alt](https://github.com/srilekhya25/Power-BI/blob/main/prism%20insurance%20pvt%20ltd.PNG)
