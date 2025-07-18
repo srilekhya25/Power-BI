@@ -45,4 +45,5 @@ Walkthrough of Key Visuals
 ✅ Enabled revenue optimization by identifying high-performing policy types.
 ✅ Reduced manual data interpretation and boosted stakeholder confidence in strategic reporting.
 
-Dashboard preview link: ![Image Alt]([https://github.com/srilekhya25/Power-BI/blob/a32872a730d34b0244c3bca950c9637334677259/prism%20insurance%20pvt%20ltd.PNG])
+Dashboard preview link: 
+ ![Image Alt]()
