@@ -28,3 +28,4 @@ To build a centralized, data-driven dashboard using Power BI that empowers stake
 ✅ Improved customer segmentation strategies through demographic breakdowns.
 ✅ Enabled revenue optimization by identifying high-performing policy types.
 ✅ Reduced manual data interpretation and boosted stakeholder confidence in strategic reporting.
+link:
