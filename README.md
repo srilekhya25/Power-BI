@@ -1,19 +1,22 @@
 Power BI Dashboard
 
-📌 Project Title
-Interactive Power BI Dashboard – Prism Insurance Pvt. Ltd.
+# 📊 Prism Insurance – Interactive Power BI Dashboard
+
+## 📝 Project Overview
+This project showcases a fully interactive **Power BI dashboard** built for **Prism Insurance Pvt. Ltd.** It highlights key metrics such as policy activity, customer demographics, premium distribution, and claim performance.  
+The dashboard helps business users and stakeholders make **data-driven decisions** in real-time regarding policy management and customer.
+
 
 📝 Description
 
 This project showcases a fully interactive business intelligence dashboard built using Power BI for Prism Insurance Pvt. Ltd. It highlights key metrics such as policy activity, demographic insights, premium distribution, and claim analysis. The dashboard enables stakeholders to make faster, data-driven decisions in policy management and customer segmentation.
 
-🛠️ Tech Stack
-
-Microsoft SQL Server (MSSQL) – data extraction and relational queries
-Power BI Desktop & Service – dashboard design, sharing, and access control
-Power Query Editor – data shaping and cleansing
-DAX (Data Analysis Expressions) – calculated columns and business metrics
-Excel/CSV – supplementary data inputs
+🛠 Tech Stack
+- **Microsoft SQL Server (MSSQL)** – Data extraction and relational queries  
+- **Power BI Desktop & Power BI Service** – Dashboard creation, sharing, and access control  
+- **Power Query Editor** – Data shaping, cleaning, and transformation  
+- **DAX (Data Analysis Expressions)** – Business calculations and KPI metrics  
+- **Excel/CSV** – Supplementary data inputs (customer and claim history)
 
 📂 Data Sources
 
